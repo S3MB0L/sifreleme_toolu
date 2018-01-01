@@ -1,0 +1,12 @@
+c:\users\mustafa\source\repos\Sifreleme_Toolu\Sifreleme_Toolu\bin\Debug\Sifreleme_Toolu.exe.config
+c:\users\mustafa\source\repos\Sifreleme_Toolu\Sifreleme_Toolu\bin\Debug\Sifreleme_Toolu.exe
+c:\users\mustafa\source\repos\Sifreleme_Toolu\Sifreleme_Toolu\bin\Debug\Sifreleme_Toolu.pdb
+c:\users\mustafa\source\repos\Sifreleme_Toolu\Sifreleme_Toolu\obj\Debug\Sifreleme_Toolu.csprojResolveAssemblyReference.cache
+c:\users\mustafa\source\repos\Sifreleme_Toolu\Sifreleme_Toolu\obj\Debug\Sifreleme_Toolu.Form1.resources
+c:\users\mustafa\source\repos\Sifreleme_Toolu\Sifreleme_Toolu\obj\Debug\Sifreleme_Toolu.Properties.Resources.resources
+c:\users\mustafa\source\repos\Sifreleme_Toolu\Sifreleme_Toolu\obj\Debug\Sifreleme_Toolu.csproj.GenerateResource.Cache
+c:\users\mustafa\source\repos\Sifreleme_Toolu\Sifreleme_Toolu\obj\Debug\Sifreleme_Toolu.csproj.CoreCompileInputs.cache
+c:\users\mustafa\source\repos\Sifreleme_Toolu\Sifreleme_Toolu\obj\Debug\Sifreleme_Toolu.exe
+c:\users\mustafa\source\repos\Sifreleme_Toolu\Sifreleme_Toolu\obj\Debug\Sifreleme_Toolu.pdb
+c:\users\mustafa\source\repos\Sifreleme_Toolu\Sifreleme_Toolu\obj\Debug\Sifreleme_Toolu.Form2.resources
+c:\users\mustafa\source\repos\Sifreleme_Toolu\Sifreleme_Toolu\obj\Debug\Sifreleme_Toolu.Form3.resources
